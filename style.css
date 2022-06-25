@@ -1,0 +1,28 @@
+body{
+    background-color: #316B83;
+}
+
+p{
+    color: white;
+    margin: 10%;
+    font-size: x-large;
+    
+font-family: 'Mulish', sans-serif;
+
+}
+
+span{
+    font-weight: bold;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width : 550px;
+height : 550px;
+}
+
+img {
+    margin: 10px;
+}
